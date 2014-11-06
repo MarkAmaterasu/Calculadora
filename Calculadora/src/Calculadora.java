@@ -6,5 +6,4 @@ public class Calculadora {
 		System.out.println("Sóc una calculadora simple");
 
 	}
-
 }
